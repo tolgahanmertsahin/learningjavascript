@@ -100,3 +100,4 @@ toplama(5,9,8,6,8)
 
 const karesi = n =>console.log(n*n)
 karesi(3)
+karesi(7)
