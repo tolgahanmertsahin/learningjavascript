@@ -86,3 +86,7 @@ let days = [
 
 let humanReadableDateFormatInTurkish = `${day} ${months[month]} ${year}, ${days[dayOfTheWeek]}, ${hour}:${minute}:${second}`
 console.log(humanReadableDateFormatInTurkish)
+
+let cagatay={
+    name:'Çağatay'
+}
